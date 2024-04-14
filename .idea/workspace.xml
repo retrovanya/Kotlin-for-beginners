@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4905859e-eb2f-40fd-9ebf-7ac85cc1353e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Generics/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/DataClassesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/DataClassesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/House.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/META-INF/OOP.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/META-INF/OOP.kotlin_module" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.generics.PersonKt">
+  <component name="RunManager" selected="Kotlin.generics.PersonReaderKt">
     <configuration name="DataClassesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="OOP" />
       <option name="VM_PARAMETERS" />
@@ -69,14 +70,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generics.PersonKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="generics.PersonReaderKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="OOP" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="generics.PersonKt" />
+      <option name="MAIN_CLASS_NAME" value="generics.PersonReaderKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,7 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.generics.PersonKt" />
+        <item itemvalue="Kotlin.generics.PersonReaderKt" />
         <item itemvalue="Kotlin.DataClassesKt" />
         <item itemvalue="Kotlin.interfaces.MainKt" />
         <item itemvalue="Kotlin.abstraction.MachineryKt" />
@@ -129,6 +130,14 @@
       <option name="presentableId" value="Default" />
       <updated>1712428305462</updated>
     </task>
+    <task id="LOCAL-00001" summary="generics">
+      <created>1713107033152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713107033152</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +152,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="generics" />
+    <option name="LAST_COMMIT_MESSAGE" value="generics" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
